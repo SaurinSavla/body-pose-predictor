@@ -3,3 +3,11 @@
 __pycache__/
 
 datasets/*
+
+model_checkpoints/model175.pt
+model_checkpoints/model150.pt
+model_checkpoints/model125.pt
+model_checkpoints/model100.pt
+model_checkpoints/model75.pt
+model_checkpoints/model50.pt
+model_checkpoints/model25.pt
